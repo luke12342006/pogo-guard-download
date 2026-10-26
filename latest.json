@@ -1,0 +1,10 @@
+{
+  "version": "0.9.12",
+  "file": "Pogo Guard Setup.exe",
+  "sha256": "a2b9e16f363c0eba61f6fdc1f8229eac447b37f41732e332d6ab424e026024cb",
+  "size": 23735808,
+  "notes": "- Versione 0.9.12\n- rusqlite 0.41 e base64 0.23, con il blocco esclusivo preso subito\n- Popup della password che blocca il PC, e Pogo Guard che si riapre dopo l'aggiornamento",
+  "date": "2026-10-26T20:08:40Z",
+  "expires": 1808597320,
+  "signature": "SchjjAl/hD1ZEGnotqP+NBmZsCoP3WTLCF/bwEUXUeyKQsrdhQrLzqmj0hu6mOjKFnbtJwMyVpcYHnL1/62YCg=="
+}
